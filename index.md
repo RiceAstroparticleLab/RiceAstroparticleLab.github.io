@@ -166,5 +166,5 @@ _2020_
 
 
 ## Contact Us
-- **Location**: Herman Brown Hall, Department of Physics and Astronomy, 6100 Main St, Rice University, Houston, TX
+- **Location**: Herman Brown Hall 238, Department of Physics and Astronomy, 6100 Main St, Rice University, Houston, TX
 - **Email**: astroparticle@rice.edu
