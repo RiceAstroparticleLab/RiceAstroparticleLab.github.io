@@ -25,7 +25,7 @@ We specialize in the following physics areas:
 
 #### Current Members
 
-** Prof. Christopher Tunnell**, Associate Professor of Physics, Astronomy, and Computer Science and group leader.
+**Prof. Christopher Tunnell**, Associate Professor of Physics, Astronomy, and Computer Science and group leader.
 _2018-present_
 
 **Dr. Juehang Qin**, Physics Postdoctoral Research  
