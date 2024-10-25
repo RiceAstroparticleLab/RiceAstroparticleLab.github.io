@@ -5,7 +5,7 @@ The Computational Astroparticle Group at Rice University focuses on answering fu
 
 ### Understanding the Universe with Data and Dark Matter Detectors
 
-Our research group focuses on using advanced computational methods to explore cosmic mysteries, specifically the nature of **dark matter**, an invisible substance that makes up most of the universe's mass. We develop tools that bridge **computer science** and **physics**, a unique approach known as (translational computer science)[https://ieeexplore.ieee.org/document/9547673]. This approach allows us to create new computational techniques while working on critical questions about the universe.
+Our research group focuses on using advanced computational methods to explore cosmic mysteries, specifically the nature of **dark matter**, an invisible substance that makes up most of the universe's mass. We develop tools that bridge **computer science** and **physics**, a unique approach known as [translational computer science](https://ieeexplore.ieee.org/document/9547673). This approach allows us to create new computational techniques while working on critical questions about the universe.
 
 #### Probing Dark Matter with the XENON Experiments
 Our team is a founding member of the [XENON Collaboration](https://www.xenonnt.org/), a group of researchers from around the world using detectors located deep underground in Italy to search for dark matter. These detectors are some of the most sensitive ever made and have helped rule out many theories about dark matter. We use a special type of detector called a **liquid xenon time-projection chamber**, which allows us to detect faint signals from particles passing through Earth.
@@ -28,13 +28,15 @@ Another frontier project is [Polonaise](https://arxiv.org/abs/2409.03814), which
 Our work combines frontier experiments with cutting-edge computational techniques to explore one of the greatest mysteries in physics: what is dark matter, and why does it exist? By pushing the boundaries of both **data science** and **experimental physics**, we hope to uncover new physics that will help us better understand our universe.
 
 ## Latest News
-- **October 2024**: New paper
+
+- **October 2024**: _We observed for the first time Solar neutrinos bouncing off a nucleus in XENONnT! ([arXiv:2410.17137](https://arxiv.org/abs/2408.02877))!_
+- **September 2024**: New paper submitted to PRL searching for ultralight dark matter using magnetic levitation for the POLONAISE experiment ([arXiv:2409.03814](https://arxiv.org/pdf/2409.03814)) based on Dr Amaral's work connecting dark matter theory to quantum sensing systems ([JCAP 06 (2024) 050](https://arxiv.org/abs/2403.02381))!  
 
 ## Physics Research Areas
 We specialize in the following physics areas:
 - **Dark matter direct detection**:  We are a founding member of the XENON experiments that is one of the leading experiments to measure WIMP dark matter terrestrially. (XENON100/XENON1T/XENONnT) 
-- **Neutrinos and weak interactions**: We research neutrinos through processes such as neutrinoless double-beta decay, where observing this process gains insight into why the Universe is made of predominantly matter. (Dune / XLZD / Darwin)
-- **Quantum sensing for dark matter**: We are pioneering efforts to understand how novel quantum sensing devices can be used to probe dark matter terrestrially.  (Windchime / Polonaise) 
+- **Neutrinos and weak interactions**: We research neutrinos through processes such as neutrinoless double-beta decay, where observing this process gains insight into why the Universe is made of predominantly matter. (DUNE / XLZD / Darwin)
+- **Quantum sensing for dark matter**: We are pioneering efforts to understand how novel quantum sensing devices can be used to probe dark matter terrestrially.  (Windchime / POLONAISE) 
 
 
 ## Team Members
