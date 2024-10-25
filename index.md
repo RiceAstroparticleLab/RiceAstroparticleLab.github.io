@@ -1,8 +1,3 @@
-# Computational Astroparticle Group
-
-The Computational Astroparticle Group at Rice University focuses on answering fundamental questions about the Universe by using advanced computational techniques, including machine learning, to gain insights in (astro)particle physics data. This group was founded in 2018 as part of two intiatives.  First, a joint initiative for a multi-facutlry Cosmology Cluster hire within the Department of Physics and Astronomy. Second, the Provost's University-wide Data Science Intiative where this group serves as the physical science effort.
-
-
 ### Understanding the Universe with Data and Dark Matter Detectors
 
 Our research group focuses on using advanced computational methods to explore cosmic mysteries, specifically the nature of **dark matter**, an invisible substance that makes up most of the universe's mass. We develop tools that bridge **computer science** and **physics**, a unique approach known as [translational computer science](https://ieeexplore.ieee.org/document/9547673). This approach allows us to create new computational techniques while working on critical questions about the universe.
