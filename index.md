@@ -1,4 +1,4 @@
-# Rice University's Computational Astroparticle Group
+# Computational Astroparticle Group
 
 The Computational Astroparticle Group at Rice University focuses on answering fundamental questions about the Universe by using advanced computational techniques, including machine learning, to gain insights in (astro)particle physics data. This group was founded in 2018 as part of two intiatives.  First, a joint initiative for a multi-facutlry Cosmology Cluster hire within the Department of Physics and Astronomy. Second, the Provost's University-wide Data Science Intiative where this group serves as the physical science effort.
 
@@ -43,7 +43,7 @@ We specialize in the following physics areas:
 
 #### Current Members
 
-**Prof. Christopher Tunnell**, Associate Professor of Physics, Astronomy, and Computer Science and group leader. (Publications)[https://inspirehep.net/authors/1064620]
+**Prof. Christopher Tunnell**, Associate Professor of Physics, Astronomy, and Computer Science and group leader. [Publications](https://inspirehep.net/authors/1064620)
 _2018-present_
 
 **Dr. Juehang Qin**, Physics Postdoctoral Research  
